@@ -1,0 +1,32 @@
+El objetivo de la actividad no es construir el modelo definitivo del proyecto, sino utilizar una base real para recorrer un pequeño flujo de análisis: formular una pregunta, preparar los datos, aplicar las técnicas estudiadas, evaluar los resultados y discutir qué información puede extraerse de ellos.
+
+1. Regresión
+Cada grupo deberá seleccionar una pregunta que pueda explorarse mediante regresión utilizando variables de su propia base.
+
+El análisis deberá incluir, como mínimo:
+
+identificación y justificación de la variable respuesta y de las variables explicativas;
+preparación de los datos y revisión de valores faltantes;
+exploración gráfica de las relaciones entre variables;
+ajuste de al menos un modelo de regresión lineal;
+generación de predicciones;
+análisis de residuos;
+cálculo e interpretación de métricas de error, por ejemplo MAE y RMSE;
+comparación entre valores observados y predichos;
+una breve discusión de las limitaciones del modelo obtenido.
+2. Clustering exploratorio
+Cada grupo deberá formular también una pregunta exploratoria que pueda abordarse agrupando observaciones similares, sin utilizar una variable objetivo para definir previamente los grupos.
+
+El análisis deberá incluir, como mínimo:
+
+definición de qué representa cada observación que será agrupada;
+selección y justificación de las variables utilizadas;
+revisión de faltantes, distribuciones y posibles valores extremos;
+estandarización de las variables cuando corresponda;
+aplicación de k-means;
+exploración de diferentes valores de k;
+uso del método del codo y/o alguna evidencia adicional para discutir la cantidad de clusters;
+caracterización de los grupos encontrados;
+visualización de los clusters;
+una propuesta de interpretación de los grupos obtenidos.
+Importante: no buscamos obtener necesariamente modelos con resultados “buenos” o clusters perfectamente separados. También son resultados relevantes descubrir que una relación es débil, que un modelo presenta errores importantes o que los datos no forman grupos claramente diferenciados. Lo importante es que las decisiones y conclusiones puedan justificarse a partir del análisis realizado.
